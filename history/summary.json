@@ -4,7 +4,7 @@
     "url": "https://app.cybotrade.rs",
     "icon": "https://icons.duckduckgo.com/ip3/app.cybotrade.rs.ico",
     "slug": "cybotrade",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 4812,
     "timeMonth": 4853,
     "timeYear": 5040,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   },
   {
     "name": "Cybotrade Docs",
